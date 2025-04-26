@@ -9,7 +9,8 @@
 <body>
     <h1>Aashish Neupane</h1>
     <p>This is a simple HTML webpage.</p>
-    <p>This my joureny of learning of git</p>
+    <p>This my joureny of learning of git.</p>
+    
     <a href="https://www.example.com" target="_blank">Visit Example</a>
 </body>
 </html>
